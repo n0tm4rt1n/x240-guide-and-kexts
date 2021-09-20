@@ -1,4 +1,14 @@
 # Guide to installing macOS on a Thinkpad X240 (With Clover)
+## **I DO NOT OWN ANY OF THIS! THIS IS JUST A GUIDE WITH ALL THE FILES FOR EASE OF USE**
+
+## Credits 
+- https://github.com/RehabMan
+- https://www.tonymacx86.com/threads/guide-lenovo-thinkpad-x240.245583/
+- https://github.com/Sniki/ALCPlugFix
+- https://github.com/Sniki/Lenovo-Thinkpad-X240
+- https://github.com/Sniki/OS-X-USB-Inject-All
+- https://www.tonymacx86.com/threads/guide-lenovo-thinkpad-x240.245583/
+- https://www.reddit.com/r/hackintosh/comments/dfbswz/thinkpad_x240_catalina_success/
 
 ## What works
 <p></p>
